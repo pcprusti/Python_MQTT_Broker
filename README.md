@@ -1,7 +1,7 @@
 # Python_MQTT_Broker
 Python MQTT broker implementation: lightweight, event-driven server handling client connections, topic subscriptions, QoS levels, retained messages and persistence.
-
 Minimal MQTT broker using asyncio.
+
 # Features:
 - CONNECT / CONNACK (very simplified parsing)
 - SUBSCRIBE / SUBACK (single-filter simplified parsing)
